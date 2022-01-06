@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/xtNZyvWr",
+      "domain": "https://goc.codegabap.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://goc.codegabap.repl.co/callback",
+        "clientID": "886931103825403925",
+        "secret": "XIbC5wHqflgMA5XFJnnDPIXezDjq_gsN"
+    }
+  }

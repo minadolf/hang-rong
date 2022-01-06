@@ -1,0 +1,12 @@
+{
+  "token": "",
+  "prefix": "m.",
+  "ksoftapi": "NEEDED_FOR_LYRICS",
+  "youtubeCookie": "",
+  "spotify_api": {
+        "enabled": false, "_COMMENT_": "Đặt nó thành false, nếu bạn muốn loại bỏ, khi đúng, bạn có thể nhận được danh sách phát spotify với hơn 100 bản nhạc",
+        "clientSecret": "",
+        "clientId": ""
+  },
+  "loadSlashsGlobal": true, "_COMMENT_": "Đặt nó thành true, khi Lệnh Slash của bạn đã sẵn sàng, tải false ngay lập tức tải true tải chậm nhưng ổn định! (LỆNH TOÀN CẦU / GUILD, DISCORD DOCS!)"
+}
